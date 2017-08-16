@@ -1,0 +1,74 @@
+@import 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css';
+
+body {
+  background: #67B26F; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #4ca2cd,
+    #67B26F
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #4ca2cd,
+    #67B26F
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #efefef;
+  font-family: Futura, sans-serif;
+  margin: 20px;
+}
+
+ol, ul {
+
+  list-style-type: none;
+}
+
+.center {
+  text-align: center;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+
+.square {
+  border-radius: 100%;
+  background: rgba(255, 255, 255, .2);
+  border: 5px solid #FFF57A;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 100px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.square:focus {
+  outline: none;
+}
+
+.game-info {
+  margin-left: 20px;
+}
+
+.errors {
+  background: #c00;
+  color: #fff;
+  display: none;
+  margin: -20px -20px 20px;
+  padding: 20px;
+}
+
+.submit-button:focus {
+  outline: none;
+}
+.submit-button {
+  color: #333;
+  border-radius: 3px;
+  border: none;
+  background: #F8F09D;
+  padding: 5px 10px;
+  margin: 10px;
+}
