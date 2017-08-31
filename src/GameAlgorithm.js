@@ -1,5 +1,3 @@
-
-
 export const calculateWinner = (squares)=>{
    
     const lines = [

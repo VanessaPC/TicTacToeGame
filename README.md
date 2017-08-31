@@ -9,6 +9,10 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 It´s a tic tac toe game that allows you to play agains the computer. While the algorithm of difficulty isn´t finished, the initial version is completed. 
 
+![Image of Game](https://i.imgur.com/1p215d7.png)
+
+For a working version, please click on the link below:
+  * https://codepen.io/Lunnaris/full/xLwPoW/
 
 ## Sending Feedback
 
